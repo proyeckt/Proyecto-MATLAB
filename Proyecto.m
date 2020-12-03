@@ -1,4 +1,5 @@
-appdesigner;
+%Interfaz - GUI 
+appdesigner('Proyecto.mlapp');
 
 %Prueba
 %%row=data1(1,:)
